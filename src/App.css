@@ -23,6 +23,11 @@
   color: white;
 }
 
+.App-header > .ant-tabs {
+  margin: 20px;
+  width: 80%;
+}
+
 .App-link {
   color: #61dafb;
 }

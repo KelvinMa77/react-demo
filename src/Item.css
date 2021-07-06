@@ -1,0 +1,12 @@
+.item-wrapper {
+    height: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.inline-button {
+    float: right;
+    font-size: 12px;
+    min-width: 16px;
+}
